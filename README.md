@@ -1,24 +1,17 @@
-# Hello World
+# App Panduan Shalat
 
-A new Flutter project created with [FlutLab](https://flutlab.io)
+Menggunakan flutlab (https://flutlab.io)
 
-### Getting Started: FlutLab - Flutter Online IDE
+Fitur :
+- Shalat -> berisi listview : Sebab Udzur Shalat, Syarat dan juga Rukun Shalat
+- Shalat Fardhu -> berisi listview : Shalat Subuh, Dhuhur, Ashar, Maghrib, Isya(Niat, Keberisiutamaan dan sebagainya).
+- Shalat Sunnah -> berisi listview : Shalat Tahajud, Dhuha, Hajat, Tasbih, Taubah, dsb (Niat, Keberisiutamaan dan sebagainya).<br>
 
-- Watch Mini crash course "How to use Flutter Widgets" on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
+Halaman awal menampilkan reminder, kemudian listview fitur dan juga compass(Arah qiblat)
 
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
+https://github.com/ChikaLabita/miniproject1/blob/master/1.png
 
-### Getting Started: Flutter
+https://github.com/ChikaLabita/miniproject1/blob/master/2.png
 
-This project is a starting point for a Flutter application.
+https://github.com/ChikaLabita/miniproject1/blob/master/3.png
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
